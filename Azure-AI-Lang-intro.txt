@@ -1,0 +1,7 @@
+Introduction on Azure AI Language resources
+
+• Language Detection - Detecting which language from text
+• Key phrase extraction - Important main points
+• Sentiment analysis - Positive or Negative
+• Named Entity Recognition - References: People, places, time periods, organization, etc.…
+• Entity linking - Referencing entities through links like Wikipedia.
